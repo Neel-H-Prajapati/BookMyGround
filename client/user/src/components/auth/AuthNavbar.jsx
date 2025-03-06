@@ -56,10 +56,10 @@ export default function AuthNavbar() {
         <Link to="/auth" className="btn btn-ghost normal-case text-xl">
           <img
             src="/logo.png"
-            alt="BookMyGround"
+            alt="BMG"
             className="h-10 w-10 mask mask-squircle"
           />
-          BookMyGround
+          BMG
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
